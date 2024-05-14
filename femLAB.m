@@ -10,12 +10,13 @@
 %    Indian Space Research Organisation                                    %
 %    _______________________________________________________________       %
 %                                                                          %
-%%   Copyright:															                               %
-%	 This work is under  exclusive  copyright  by default on Github.com,     
-%	 i.e.,  the code author (Aakash Dhar Dwivedi)  retains all rights to     
-%	 the  source  code and  no  one may reproduce, distribute, or create     
-%	 derivative works from this work.									   
-%																		   
+%%   Copyright:															   %
+%	 This work is under  exclusive  copyright  by default on Github.com    %
+%    (https://github.com/AakashDharDwivedi/femLAB.git),   				   %
+%	 i.e.,  the code author (Aakash Dhar Dwivedi)  retains all rights to   %
+%	 the  source  code and  no  one may reproduce, distribute, or create   %
+%	 derivative works from this work.									   %
+%																		   %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clc
